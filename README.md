@@ -24,14 +24,14 @@ App dsenvolvido baseado no que foi pedido na missão prática do nível 2 (RPG00
 ### Clone o projeto
 
 ```bash
-  git clone https://github.com/Alvimm/m4n2
+  git clone https://github.com/Rickrasin/ESTACIO_M4N2.git
 ```
 
 
 ### Entre no diretório do projeto
 
 ```bash
-  cd m4n2
+  cd M4N2
 ```
 
 
