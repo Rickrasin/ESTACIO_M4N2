@@ -1,4 +1,4 @@
-<img src="./assets/images/estacio.png" width="980" height="245"/>
+<img src="./images/estacio.png" width="980" height="245"/>
 
 
 
